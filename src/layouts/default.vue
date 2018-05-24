@@ -59,13 +59,24 @@ export default {
 </script>
 
 <style>
+  :root {
+    --primary-color: #67B247;
+    --secondary-color: #30336b;
+  }
+
   /* GLOBAL STYLES */
   .q-layout-page-container {
     min-height: calc(100vh - 50px) !important;
+    overflow: hidden;
   }
 
   .bpwn-logo {
     height: 50px;
     width: 140px;
   }
+
+  .border {
+    border: 5px solid var(--secondary-color);
+  }
+
 </style>

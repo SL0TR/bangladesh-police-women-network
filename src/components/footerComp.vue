@@ -1,17 +1,17 @@
 <template>
-  <q-toolbar class="footer flex justify-between" color="secondary">
-    <div>
+  <q-toolbar class="footer flex justify-between" color="primary">
+    <div class="text-grey-1">
       All Rights Reserved &copy; BPWN 2018.
     </div>
       <div class="flex row items-center ">
-        <div class="q-body-1">Developed by &nbsp; </div>
+        <div class="q-body-1 text-grey-1">Developed by &nbsp; </div>
         <a class="myprofile" href="https://sl0tr.github.io/" target="_blank" rel="noopener">
           <q-btn
           outline
           size="sm"
           rounded
           label="Mohaimin Islam"
-          class="text-white"
+          class="text-grey-1"
         />
         </a>
       </div>
@@ -31,7 +31,7 @@ export default {
 <style scoped>
 
   .footer {
-    margin-top: 1rem;
+    margin-top: 2rem;
   }
 
   @media (max-width: 700px) {

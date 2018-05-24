@@ -43,6 +43,7 @@ module.exports = function (ctx) {
       components: [
         'QLayout',
         'QLayoutHeader',
+        'QLayoutFooter',
         'QLayoutDrawer',
         'QPageContainer',
         'QPage',
@@ -52,9 +53,29 @@ module.exports = function (ctx) {
         'QIcon',
         'QList',
         'QListHeader',
+        'QCarousel',
+        'QCarouselSlide',
+        'QCarouselControl',
+        'QCard',
+        'QCardTitle',
+        'QCardMain',
+        'QCardMedia',
+        'QCardSeparator',
+        'QCardActions',
         'QItem',
         'QItemMain',
-        'QItemSide'
+        'QItemSeparator',
+        'QItemSide',
+        'QItemTile',
+        'QBtnGroup',
+        'QBtnDropdown',
+        'QTabs',
+        'QTab',
+        'QTabPane',
+        'QRouteTab',
+        'QInput',
+        'QTimeline',
+        'QTimelineEntry'
       ],
       directives: [
         'Ripple'
