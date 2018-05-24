@@ -1,14 +1,7 @@
 <template>
   <q-layout view="lHh Lpr lFf">
     <q-layout-header>
-      <q-toolbar
-        color="transparent"
-        class="text-black"
-      >
-        <img class="bpwn-logo" src="../statics/bpwn-logo.png" alt="BPWN Logo">
-        <q-toolbar-title>
-        </q-toolbar-title>
-      </q-toolbar>
+      <nav-bar/>
     </q-layout-header>
 
     <!-- <q-layout-drawer
@@ -44,22 +37,33 @@
     <q-page-container>
       <router-view />
     </q-page-container>
+    <footer-comp/>
   </q-layout>
 </template>
 
 <script>
+import navBar from '../components/navBar'
+import footerComp from '../components/footerComp'
 
 export default {
   name: 'PageLayout',
   data () {
     return {
     }
+  },
+  components: {
+    navBar,
+    footerComp
   }
 }
 </script>
 
 <style>
   /* GLOBAL STYLES */
+  .q-layout-page-container {
+    min-height: calc(100vh - 50px) !important;
+  }
+
   .bpwn-logo {
     height: 50px;
     width: 140px;
