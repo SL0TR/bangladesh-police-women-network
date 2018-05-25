@@ -1,5 +1,8 @@
 <template>
   <q-page>
+    <div class="row">
+      contact
+    </div>
   </q-page>
 </template>
 

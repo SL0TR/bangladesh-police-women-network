@@ -79,4 +79,9 @@ export default {
     border: 5px solid var(--secondary-color);
   }
 
+  .full-width-height {
+    width: 100%;
+    height: calc(100vh - 61px);
+  }
+
 </style>
