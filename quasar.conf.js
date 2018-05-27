@@ -12,7 +12,7 @@ module.exports = function (ctx) {
     extras: [
       ctx.theme.mat ? 'roboto-font' : null,
       'material-icons',
-      ctx.theme.ios ? 'ionicons' : null,
+      ctx.theme.ios ? 'ionicons' : null
       // 'mdi',
       // 'fontawesome'
     ],
@@ -20,6 +20,7 @@ module.exports = function (ctx) {
     build: {
       scopeHoisting: true,
       vueRouterMode: 'history',
+      publicPath: 'bpwn-site/',
       // vueCompiler: true,
       // gzip: true,
       // analyze: true,
@@ -75,7 +76,8 @@ module.exports = function (ctx) {
         'QRouteTab',
         'QInput',
         'QTimeline',
-        'QTimelineEntry'
+        'QTimelineEntry',
+        'QSlideTransition'
       ],
       directives: [
         'Ripple'
