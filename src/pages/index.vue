@@ -25,9 +25,7 @@
       <div class="col-xs-10 offset-xs-1 q-mt-xl">
         <div class="text-center q-display-4 text-secondary text-bold featured-header uppercase">BPWN</div>
       </div>
-      <div class="col-lg-4 offset-lg-4 col-xs-8 offset-xs-2 q-mt-sm q-mb-md">
-        <hr>
-      </div>
+      <badge-hr/>
       <div class="col-lg-8 offset-lg-2 col-xs-10 offset-xs-1 q-mt-lg">
         <div class="text-center text-tertiary q-headline q-mt-lg text-weight-regular q-mb-xl">Bangladesh Police Women Network an organization dedicated to expanding the prospect for women police in profession through networking and leadership. With the employment of 14 women in Bangladesh Police, women police commenced its activities in 1974. At present they are working with enthusiasm in all police units in different capacities including operational and administrative role.</div>
       </div>
