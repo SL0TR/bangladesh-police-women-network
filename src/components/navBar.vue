@@ -78,7 +78,33 @@
         </div>
       </q-btn-dropdown>
       <q-btn class=" nav-btn" label="UN MISSION" flat @click="$router.push('/un-mission')"/>
-      <q-btn class=" nav-btn" label="Testimonials" flat @click="$router.push('/testimonials')"/>
+      <q-btn-dropdown class="text-primary" label="Testimonials" >
+        <div class="row">
+          <div class="col-12 text-center">
+            <q-btn class="text-primary full-width" label="Speech Of Mily Biswas" flat @click="$router.push('/testimonials/speech-of-mily-biswas')"/>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12 text-center">
+            <q-btn class="text-primary full-width" label="2nd National Conference" flat @click="$router.push('/testimonials/second-national-conference')"/>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12 text-center">
+            <q-btn class="text-primary full-width" label="Blog Corner" flat @click="$router.push('/testimonials/blog-corner')"/>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12 text-center">
+          <q-btn class="text-primary full-width" label="News Coverage" flat @click="$router.push('/testimonials/news-coverage')"/>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12 text-center">
+          <q-btn class="text-primary full-width" label="National Event" flat @click="$router.push('/testimonials/national-event')"/>
+          </div>
+        </div>
+      </q-btn-dropdown>
       <q-btn class=" nav-btn" label="gallery" flat @click="$router.push('/gallery')"/>
       <q-btn class=" nav-btn" label="contact" flat @click="$router.push('/contact')"/>
     </q-btn-group>

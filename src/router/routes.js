@@ -19,7 +19,11 @@ export default [
       { path: '/int-affiliation/higher-study-and-fellowship', component: () => import('pages/int-affiliation/higher-study-and-fellowship'), name: 'higher-study-and-fellowship', meta: { title: 'higher-study-and-fellowship' } },
       { path: '/int-affiliation/achievements', component: () => import('pages/int-affiliation/achievements'), name: 'achievements', meta: { title: 'achievements' } },
       { path: '/un-mission', component: () => import('pages/un-mission'), name: 'un-mission', meta: { title: 'UN Misison' } },
-      { path: '/testimonials', component: () => import('pages/testimonials'), name: 'testimonials', meta: { title: 'Testimonials' } },
+      { path: '/testimonials/speech-of-mily-biswas', component: () => import('pages/testimonials/speech-of-mily-biswas'), name: 'speech-of-mily-biswas', meta: { title: 'speech-of-mily-biswas' } },
+      { path: '/testimonials/second-national-conference', component: () => import('pages/testimonials/second-national-conference'), name: 'second-national-conference', meta: { title: 'second-national-conference' } },
+      { path: '/testimonials/blog-corner', component: () => import('pages/testimonials/blog-corner'), name: 'blog-corner', meta: { title: 'blog-corner' } },
+      { path: '/testimonials/news-coverage', component: () => import('pages/testimonials/news-coverage'), name: 'news-coverage', meta: { title: 'news-coverage' } },
+      { path: '/testimonials/national-event', component: () => import('pages/testimonials/national-event'), name: 'national-event', meta: { title: 'national-event' } },
       { path: '/gallery', component: () => import('pages/gallery'), name: 'gallery', meta: { title: 'Gallery' } },
       { path: '/contact', component: () => import('pages/contact'), name: 'HomePage', meta: { title: 'contact' } }
     ]
