@@ -25,8 +25,8 @@
         <q-card-actions >
           <div class="col-12">
             <div class="row flex justify-center">
-              <div class="col-lg-4 col-xs-12">
-                <a :href="blog.link" rel="noopener" target="_blank"><q-btn class="full-width" label="Click to See the Video Speech" color="primary" flat/></a>
+              <div class="col-lg-4 col-xs-12 q-ma-md">
+                <a :href="blog.link" rel="noopener" target="_blank"><q-btn class="full-width" label="Read the details Report" color="primary" flat/></a>
               </div>
             </div>
           </div>
