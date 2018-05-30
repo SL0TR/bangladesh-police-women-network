@@ -92,16 +92,16 @@
     </div>
     <div class="col-lg-4 offset-lg-1 col-xs-10 offset-xs-1 q-mt-xl">
       <img class="full-width" src="../../statics/images/chart_current.png" alt="Current UN Participaiton of women">
+      <div class="col-lg-4 col-xs-10 q-mb-xl q-mt-lg">
+        <div class="text-center text-tertiary">Figure: Current Statistics of Lady Officers</div>
+      </div>
     </div>
     <div class="col-lg-4 offset-lg-2 col-xs-10 offset-xs-1 q-mt-xl">
       <img class="full-width" src="../../statics/images/chart_completed.png" alt="Current UN Participaiton of women">
-    </div>
-    <div class="col-lg-4 offset-lg-1 col-xs-10 offset-xs-1 q-mb-xl">
-      <div class="text-center text-tertiary">Figure: Current Statistics of Lady Officers</div>
-    </div>
-    <div class="col-lg-4 offset-lg-2 col-xs-10 offset-xs-1 q-mb-xl">
-      <div class="text-center text-tertiary">Figure: Number of Mission Completed Lady Officers
-    </div>
+      <div class="col-lg-4  col-xs-10 q-mb-xl q-mt-lg">
+        <div class="text-center text-tertiary">Figure: Number of Mission Completed Lady Officers
+        </div>
+      </div>
     </div>
   </div>
 </template>

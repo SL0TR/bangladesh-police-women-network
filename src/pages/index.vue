@@ -4,7 +4,7 @@
       <div class="col-lg-12">
         <q-carousel
           arrows
-          height="calc(100vh - 61px)"
+          height="calc(100vh - 58px)"
           infinite
           autoplay
           quick-nav

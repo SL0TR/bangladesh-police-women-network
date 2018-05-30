@@ -44,8 +44,12 @@
               <div class="text-center text-tertiary q-title q-mt-xl q-mb-lg">
                 She along with other 7 female Police officers joined the program this year. BPWN is grateful to Honorable IGP of Bangladesh Police, US department of justice /ICITAP to support financially to attend the Conference. Since 1915, IAWP has continuously organized an annual training conference to provide professional development, mentoring, training, networking and recognition for women law enforcement officers and civilian support staff, as well as increase the numbers of women in policing. The Training conference theme for this year was Equality and Security. Events participated by Bangladeshi Women police includes the following segments.
               </div>
-              <div class="col-lg-12 q-mb-xl" >
-                <div class="q-subheading text-center text-tertiary q-mt-xl " v-for="(segment, id) in segments" :key="id"> <span class="text-secondary text-weight-bolder"> {{ id + 1 }}.</span> {{ segment }}</div>
+              <div class="col-12">
+                <div class="row">
+                  <div class="col-lg-8 offset-lg-2 q-mb-xl" >
+                    <div class="q-subheading text-tertiary q-mt-xl " v-for="(segment, id) in segments" :key="id"> <span class="text-secondary text-weight-bolder"> {{ id + 1 }}.</span> {{ segment }}</div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>

@@ -13,7 +13,7 @@
         <hr>
       </div>
       <div class="col-lg-10 offset-lg-1 q-mb-xl" >
-        <div class="q-title text-center text-tertiary q-mt-xl" v-for="(plan, id) in plans2018" :key="id"><q-icon color="secondary" size="25px" name="navigate next" /> {{ plan }}</div>
+        <div class="q-title text-center text-tertiary q-mt-xl" v-for="(plan, id) in plans2018" :key="id"><q-icon color="primary" size="25px" name="navigate next" /> {{ plan }}</div>
       </div>
       <div class="col-xs-10 offset-xs-1  q-mt-xl">
         <div class="text-center q-display-1 text-secondary text-bold uppercase">Planning of 2016-17</div>
@@ -22,7 +22,7 @@
         <hr>
       </div>
       <div class="col-lg-10 offset-lg-1 q-mb-xl" >
-        <div class="q-title text-center text-tertiary q-mt-xl" v-for="(plan, id) in plans2016" :key="id"><q-icon color="secondary" size="25px" name="navigate next" /> {{ plan }}</div>
+        <div class="q-title text-center text-tertiary q-mt-xl" v-for="(plan, id) in plans2016" :key="id"><q-icon color="primary" size="25px" name="navigate next" /> {{ plan }}</div>
       </div>
       <div class="col-xs-10 offset-xs-1  q-mt-xl">
         <div class="text-center q-display-1 text-secondary text-bold uppercase">Planning of 2014-15</div>
@@ -31,7 +31,7 @@
         <hr>
       </div>
       <div class="col-lg-10 offset-lg-1 q-mb-xl" >
-        <div class="q-title text-center text-tertiary q-mt-xl" v-for="(plan, id) in plans2014" :key="id"><q-icon color="secondary" size="25px" name="navigate next" /> {{ plan }}</div>
+        <div class="q-title text-center text-tertiary q-mt-xl" v-for="(plan, id) in plans2014" :key="id"><q-icon color="primary" size="25px" name="navigate next" /> {{ plan }}</div>
       </div>
   </div>
 </template>
