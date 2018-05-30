@@ -12,8 +12,8 @@
     <div class="col-lg-2 offset-lg-5 col-xs-8 offset-xs-2 q-mt-sm q-mb-md">
       <hr>
     </div>
-    <div class="col-lg-10 offset-lg-1 q-mb-xl" >
-      <div class="q-title text-center text-tertiary q-mt-xl" v-for="(object, id) in objecttives" :key="id"> <span class="text-secondary text-weight-bolder"> {{ id + 1 }}.</span> {{ object }}</div>
+    <div class="col-lg-8 offset-lg-2 q-mb-md" >
+      <div class="q-title text-tertiary q-mt-xl" v-for="(object, id) in objecttives" :key="id"> <span class="text-secondary text-weight-bolder"> {{ id + 1 }}.</span> {{ object }}</div>
     </div>
   </div>
 </template>

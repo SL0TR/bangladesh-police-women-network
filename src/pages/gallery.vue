@@ -17,11 +17,11 @@
           </div>
           <div class="col-12">
             <div class="row flex justify-around round-borders">
-              <div class="album col-lg-3 q-card q-ma-md flex justify-center items-center" v-for="(gallery, id) in section.galleries" :key="id" :style="{ backgroundImage : 'url('+ gallery.backgroundImg + ')'}" >
+              <div class="album col-lg-3 q-card q-ma-md flex justify-center items-center border-prim" v-for="(gallery, id) in section.galleries" :key="id" :style="{ backgroundImage : 'url('+ gallery.backgroundImg + ')'}" >
                 <div class="col-10" style="z-index: 2">
                   <div class="q-headline text-center text-primary" >{{ gallery.title }}</div>
                 </div>
-                <div class="col-lg-5"><a :href="gallery.url" rel="noopener" target="_blank"><q-btn class="full-width" label="Go to album" icon="link" style="z-index: 2" color="primary" outline/></a></div>
+                <div class="col-lg-5"><a :href="gallery.url" rel="noopener" target="_blank"><q-btn class="full-width" label="Go to album" icon="link" style="z-index: 2" color="primary" /></a></div>
               </div>
             </div>
           </div>
@@ -142,7 +142,7 @@ export default {
 
   .album:after {
     content: '';
-    background: rgba(48, 51, 107, 0.75);
+    background: rgba(48, 51, 107, 0.85);
     height: 100%;
     width: 100%;
     position: absolute;

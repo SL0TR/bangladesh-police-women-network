@@ -13,7 +13,7 @@
       <hr>
     </div>
     <div class="col-lg-10 offset-lg-1 q-mb-xl" >
-      <div class="q-title text-center text-tertiary q-mt-xl" v-for="(achievement, id) in achievments" :key="id"><q-icon color="secondary" size="25px" name="navigate next" /> {{ achievement }}</div>
+      <div class="q-title text-center text-tertiary q-mt-xl" v-for="(achievement, id) in achievments" :key="id"><q-icon color="primary" size="25px" name="navigate next" /> {{ achievement }}</div>
     </div>
     <div class="col-xs-10 offset-xs-1  q-mt-xl">
       <div class="text-center q-display-1 text-secondary text-bold uppercase">Previous Achievements and Initiatives</div>
@@ -22,7 +22,7 @@
       <hr>
     </div>
     <div class="col-lg-10 offset-lg-1 q-mb-xl" >
-      <div class="q-title text-center text-tertiary q-mt-xl" v-for="(achievement, id) in prevAchievment" :key="id"><q-icon color="secondary" size="25px" name="navigate next" /> {{ achievement }}</div>
+      <div class="q-title text-center text-tertiary q-mt-xl" v-for="(achievement, id) in prevAchievment" :key="id"><q-icon color="primary" size="25px" name="navigate next" /> {{ achievement }}</div>
     </div>
   </div>
 </template>
