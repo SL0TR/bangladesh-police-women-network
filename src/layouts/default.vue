@@ -70,11 +70,6 @@ export default {
     overflow: hidden;
   }
 
-  .bpwn-logo {
-    height: 50px;
-    width: 140px;
-  }
-
   .border {
     border: 5px solid var(--secondary-color);
   }

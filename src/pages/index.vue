@@ -19,7 +19,7 @@
           <q-carousel-slide img-src="../statics/images/home-page-slider-4.png"></q-carousel-slide>
           <q-carousel-slide img-src="../statics/images/home-page-slider-5.jpg"></q-carousel-slide>
           <q-carousel-slide img-src="../statics/images/home-page-slider-6.jpg"></q-carousel-slide>
-          <q-carousel-slide img-src="../statics/images/home-page-slider-7.jpg"></q-carousel-slide>
+          <q-carousel-slide img-src="../statics/images/home-page-slider-7.png"></q-carousel-slide>
         </q-carousel>
       </div>
       <div class="col-xs-10 offset-xs-1 q-mt-xl">
@@ -141,11 +141,13 @@
 
 <script>
 import badgeHr from '../components/badge-hr'
+import { easing } from 'quasar'
 
 export default {
   name: 'PageHome',
   data () {
     return {
+      overshoot: easing.overshoot,
       cards: [
         {
           img: '../statics/images/home-card-img-1.jpg',
