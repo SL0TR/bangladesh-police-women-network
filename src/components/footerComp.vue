@@ -30,10 +30,6 @@ export default {
 
 <style scoped>
 
-  .footer {
-    margin-top: 2rem;
-  }
-
   @media (max-width: 700px) {
     .footer {
       flex-direction: column;

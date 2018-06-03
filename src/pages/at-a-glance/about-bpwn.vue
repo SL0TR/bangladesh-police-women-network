@@ -72,7 +72,7 @@
       <div class="text-tertiary q-title text-center text-weight-light">At present the percentage of women police among all working police personnel is 6.66% and the percentage of cadre officials is 10.26%.</div>
     </div>
     <div class="col-lg-8 offset-lg-2 q-mt-xl">
-      <img class="full-width" src="../../statics/images/first_women_officer.png" alt="Firs Women Officer">
+      <img class="q-card full-width" src="../../statics/images/first_women_officer.png" alt="Firs Women Officer">
     </div>
     <div class="col-10 offset-1 q-mt-md">
       <div class="text-tertiary q-title text-center text-weight-light">Figure: 1st recruited Women Police Back in 1974

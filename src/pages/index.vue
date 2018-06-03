@@ -51,6 +51,15 @@
         <iframe class="border round-borders" width="100%" height="700" src="https://www.youtube.com/embed/R9slb_yo1jE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </div>
       <badge-hr/>
+      <div class="col-lg-12 q-mt-xl text-slider q-mb-xl">
+        <transition-group
+          enter-active-class="animated zoomIn"
+          leave-active-class="animated zoomOut"
+        >
+          <p class="q-display-1 transition item-1 text-tertiary text-center text-bold q-headline" v-for="(item, id) in sliderTexts" :key="id" v-if="state === id">{{ item }}</p>
+        </transition-group>
+      </div>
+      <div class="col-12 q-mb-xl"></div>
       <div class="col-lg-10 offset-lg-1 flex wrap items-center justify-around q-mb-xl">
         <q-card class="q-ma-lg" v-for="(card, id) in cards" inline :key="id">
           <q-card-media>
@@ -64,80 +73,9 @@
           </q-card-main>
         </q-card>
       </div>
-      <div class="col-lg-12 q-mt-xl text-slider q-mb-xl">
-        <p class="item-1 text-tertiary text-center text-bold q-headline">International Women in Law Enforcement Conference</p>
-        <p class="item-2 text-tertiary text-center text-bold q-headline">Sensitization Workshop with Women Law Enforcers on HIV/AIDS</p>
-        <p class="item-3 text-tertiary text-center text-bold q-headline">Successful participation in CIVPOL/UNPOL mission of UN peacekeeping mission</p>
-      </div>
     </div>
   </q-page>
 </template>
-
-<style scoped>
-  .q-carousel-slide {
-    background-size: 100% 100% !important;
-  }
-
-  .text-slider {
-    position: relative;
-    margin: 3rem 0;
-  }
-
-  .q-card {
-    width: 510px;
-    height: 480px;
-  }
-
-  .item-1,
-  .item-2,
-  .item-3 {
-    position: absolute;
-    display: block;
-    top: -1em;
-    width: 50%;
-    font-size: 2em;
-    animation-duration: 20s;
-    animation-timing-function: ease-in-out;
-    animation-iteration-count: infinite;
-  }
-
-  .item-1{
-    animation-name: anim-1;
-  }
-
-  .item-2{
-    animation-name: anim-2;
-  }
-
-  .item-3{
-    animation-name: anim-3;
-  }
-
-  @keyframes anim-1 {
-    0%, 8.3% { left: -100%; opacity: 0; }
-    8.3%,25% { left: 25%; opacity: 1; }
-    33.33%, 100% { left: 110%; opacity: 0; }
-  }
-
-  @keyframes anim-2 {
-    0%, 33.33% { left: -100%; opacity: 0; }
-    41.63%, 58.29% { left: 25%; opacity: 1; }
-    66.66%, 100% { left: 110%; opacity: 0; }
-  }
-
-  @keyframes anim-3 {
-    0%, 66.66% { left: -100%; opacity: 0; }
-    74.96%, 91.62% { left: 25%; opacity: 1; }
-    100% { left: 110%; opacity: 0; }
-  }
-
-  @media (max-width: 700px) {
-    .q-card {
-      height: auto;
-    }
-  }
-
-</style>
 
 <script>
 import badgeHr from '../components/badge-hr'
@@ -148,6 +86,8 @@ export default {
   data () {
     return {
       overshoot: easing.overshoot,
+      state: 0,
+      show: true,
       cards: [
         {
           img: '../statics/images/home-card-img-1.jpg',
@@ -169,11 +109,53 @@ export default {
           title: 'View Exchange Program',
           details: '105 Girl students from different colleges of Narsingdi and Teachers, Officer in Charges of police stations, female members of Narsingdi district police, media partners along with civil society 45 members also joined in the programmes.'
         }
+      ],
+      sliderTexts: [
+        'International Women in Law Enforcement Conference',
+        'Sensitization Workshop with Women Law Enforcers on HIV/AIDS',
+        'Successful participation in CIVPOL/UNPOL mission of UN peacekeeping mission',
+        'Endeavour of Bangladesh Police paved the way of BPWN to start it\'s journey back in 2008'
       ]
     }
   },
   components: {
     badgeHr
+  },
+  methods: {
+    textSlide () {
+      this.intervalid1 = setInterval(() => {
+        this.state += 1
+        if (this.state > 3) {
+          this.state = 0
+        }
+      }, 5000)
+    }
+  },
+  mounted () {
+    this.textSlide()
   }
 }
 </script>
+
+<style scoped>
+  .q-carousel-slide {
+    background-size: 100% 100% !important;
+  }
+
+  .text-slider {
+    position: relative;
+  }
+
+  .transition {
+    position: absolute;
+    bottom: -3rem;
+    width: 100%;
+    left: 0;
+  }
+
+  .q-card {
+    width: 510px;
+    height: 480px;
+  }
+
+</style>

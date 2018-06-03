@@ -20,7 +20,7 @@ module.exports = function (ctx) {
     build: {
       scopeHoisting: true,
       vueRouterMode: 'history',
-      publicPath: 'bpwn-site/',
+      publicPath: 'bpwn/',
       // vueCompiler: true,
       // gzip: true,
       // analyze: true,
@@ -91,6 +91,8 @@ module.exports = function (ctx) {
     },
     // animations: 'all' --- includes all animations
     animations: [
+      'zoomIn',
+      'zoomOut'
     ],
     pwa: {
       // workboxPluginMode: 'InjectManifest',

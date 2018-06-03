@@ -37,6 +37,16 @@ export default {
   .q-layout-page-container {
     min-height: calc(100vh - 50px) !important;
     overflow: hidden;
+    background: #f5f6fa;
+    padding-bottom: 3rem;
+  }
+
+  .q-card {
+    background: #fff;
+  }
+
+  .q-tab-pane {
+    background: #fff;
   }
 
   .border {
