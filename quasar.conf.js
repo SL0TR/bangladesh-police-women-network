@@ -77,7 +77,8 @@ module.exports = function (ctx) {
         'QInput',
         'QTimeline',
         'QTimelineEntry',
-        'QSlideTransition'
+        'QSlideTransition',
+        'QSpinnerPuff'
       ],
       directives: [
         'Ripple'
