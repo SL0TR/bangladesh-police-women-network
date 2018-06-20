@@ -13,7 +13,7 @@
       <hr>
     </div>
     <div class="col-lg-8 offset-lg-2">
-      <img class="full-width" src="../../statics/images/testi-2_cof.png" alt="testi-2_cof">
+      <img class="full-width" src="../../statics/bpwn/images/testi-2_cof.png" alt="testi-2_cof">
     </div>
   </div>
 </template>

@@ -72,7 +72,7 @@
       <div class="text-tertiary q-title text-center text-weight-light">At present the percentage of women police among all working police personnel is 6.66% and the percentage of cadre officials is 10.26%.</div>
     </div>
     <div class="col-lg-8 offset-lg-2 q-mt-xl">
-      <img class="q-card full-width" src="../../statics/images/first_women_officer.png" alt="Firs Women Officer">
+      <img class="q-card full-width" src="../../statics/bpwn/images/first_women_officer.png" alt="Firs Women Officer">
     </div>
     <div class="col-10 offset-1 q-mt-md">
       <div class="text-tertiary q-title text-center text-weight-light">Figure: 1st recruited Women Police Back in 1974
@@ -91,13 +91,13 @@
       <div class="text-tertiary q-title text-center">The number of Women Police participating in UN peacekeeping mission is stated below:</div>
     </div>
     <div class="col-lg-4 offset-lg-1 col-xs-10 offset-xs-1 q-mt-xl">
-      <img class="full-width" src="../../statics/images/chart_current.png" alt="Current UN Participaiton of women">
+      <img class="full-width" src="../../statics/bpwn/images/chart_current.png" alt="Current UN Participaiton of women">
       <div class="col-lg-4 col-xs-10 q-mb-xl q-mt-lg">
         <div class="text-center text-tertiary">Figure: Current Statistics of Lady Officers</div>
       </div>
     </div>
     <div class="col-lg-4 offset-lg-2 col-xs-10 offset-xs-1 q-mt-xl">
-      <img class="full-width" src="../../statics/images/chart_completed.png" alt="Current UN Participaiton of women">
+      <img class="full-width" src="../../statics/bpwn/images/chart_completed.png" alt="Current UN Participaiton of women">
       <div class="col-lg-4  col-xs-10 q-mb-xl q-mt-lg">
         <div class="text-center text-tertiary">Figure: Number of Mission Completed Lady Officers
         </div>
@@ -186,7 +186,7 @@ export default {
 
 <style scoped>
   .at-a-glance-header {
-    background: linear-gradient(180deg, rgba(103, 178, 71, 0.3), rgba(48, 51, 107, 0.7)), url('../../statics/images/about-bpn-journey.jpg');
+    background: linear-gradient(180deg, rgba(103, 178, 71, 0.3), rgba(48, 51, 107, 0.7)), url('../../statics/bpwn/images/about-bpn-journey.jpg');
     height: calc(100vh - 58px);
     width: 100%;
     background-size: 100% 100%;

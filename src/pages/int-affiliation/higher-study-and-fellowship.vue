@@ -32,14 +32,14 @@ export default {
   data () {
     return {
       higherStudyImg: [
-        '../../statics/images/higher-study-1.jpg',
-        '../../statics/images/higher-study-2.jpg',
-        '../../statics/images/higher-study-3.jpg',
-        '../../statics/images/higher-study-4.jpg',
-        '../../statics/images/higher-study-5.jpg',
-        '../../statics/images/higher-study-6.jpg',
-        '../../statics/images/higher-study-7.jpg',
-        '../../statics/images/higher-study-8.jpg'
+        '../../statics/bpwn/images/higher-study-1.jpg',
+        '../../statics/bpwn/images/higher-study-2.jpg',
+        '../../statics/bpwn/images/higher-study-3.jpg',
+        '../../statics/bpwn/images/higher-study-4.jpg',
+        '../../statics/bpwn/images/higher-study-5.jpg',
+        '../../statics/bpwn/images/higher-study-6.jpg',
+        '../../statics/bpwn/images/higher-study-7.jpg',
+        '../../statics/bpwn/images/higher-study-8.jpg'
       ]
     }
   }

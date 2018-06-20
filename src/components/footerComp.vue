@@ -1,5 +1,5 @@
 <template>
-  <q-toolbar class="footer flex justify-between" color="primary">
+  <q-toolbar class="footer flex justify-between" color="dark">
     <div class="text-grey-1">
       All Rights Reserved &copy; BPWN 2018.
     </div>

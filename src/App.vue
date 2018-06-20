@@ -1,7 +1,7 @@
 <template>
   <div id="q-app">
     <div class="row justify-center items-center spinner column" v-if="loading">
-      <img class="spinner-logo" src="./statics/bpwn-badge-logo.png" alt="bpwn-badge-logo">
+      <img class="spinner-logo" src="./statics/bpwn/bpwn-badge-logo.png" alt="bpwn-badge-logo">
       <q-spinner-puff color="primary" :size="300" />
     </div>
     <router-view v-else/>

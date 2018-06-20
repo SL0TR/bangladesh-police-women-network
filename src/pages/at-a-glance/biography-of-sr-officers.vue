@@ -14,7 +14,7 @@
     </div>
     <div class="col-4"></div>
     <div class="col-lg-2  offset-lg-5">
-      <img class="q-card full-width" src="../../statics/images/addig_fatema.png" alt="Addig Fatema">
+      <img class="q-card full-width" src="../../statics/bpwn/images/addig_fatema.png" alt="Addig Fatema">
     </div>
     <div class="col-10 offset-1 q-mt-lg">
       <div class="text-center text-tertiary q-title q-mt-xl q-mb-lg">

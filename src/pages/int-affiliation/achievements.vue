@@ -20,13 +20,13 @@
     <div class="col-12">
       <div class="row justify-around">
         <div class="col-lg-3 q-mt-md">
-          <img class="q-card full-width" src="../../statics/images/int-aff-img-1.jpg" alt="int-aff-img-1">
+          <img class="q-card full-width" src="../../statics/bpwn/images/int-aff-img-1.jpg" alt="int-aff-img-1">
         </div>
         <div class="col-lg-3 q-mt-md">
-          <img class="q-card full-width" src="../../statics/images/int-aff-img-2.jpg" alt="int-aff-img-1">
+          <img class="q-card full-width" src="../../statics/bpwn/images/int-aff-img-2.jpg" alt="int-aff-img-1">
         </div>
         <div class="col-lg-3 q-mt-md">
-          <img class="q-card full-width" src="../../statics/images/int-aff-img-3.jpg" alt="int-aff-img-1">
+          <img class="q-card full-width" src="../../statics/bpwn/images/int-aff-img-3.jpg" alt="int-aff-img-1">
         </div>
       </div>
     </div>

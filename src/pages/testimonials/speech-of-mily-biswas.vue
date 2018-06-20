@@ -13,7 +13,7 @@
       <hr>
     </div>
     <div class="col-lg-8 offset-lg-2">
-      <img class="full-width" src="../../statics/images/testi-speech_mili.png" alt="testi-speech_mili">
+      <img class="full-width" src="../../statics/bpwn/images/testi-speech_mili.png" alt="testi-speech_mili">
     </div>
     <div class="col-12">
       <div class="row flex justify-center">

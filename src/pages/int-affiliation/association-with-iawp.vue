@@ -60,19 +60,19 @@
               <div class="text-center q-headline text-secondary text-bold uppercase">International Recognition & Scholarship Award-2012 received by SP Abida Sultana, Bangladesh Police</div>
             </div>
             <div class="col-10 offset-1 q-mt-xl">
-              <img class="q-card full-width" src="../../statics/images/int-aff-award-1.png" alt="int-aff-award-1">
+              <img class="q-card full-width" src="../../statics/bpwn/images/int-aff-award-1.png" alt="int-aff-award-1">
             </div>
             <div class="col-xs-12 q-mt-xl">
               <div class="text-center q-headline text-secondary text-bold uppercase">International Recognition & Scholarship Award-2012 received by SP Abida Sultana, Bangladesh Police</div>
             </div>
             <div class="col-lg-8 offset-lg-2 q-mt-xl">
-              <img class="q-card full-width" src="../../statics/images/int-aff-award-2.png" alt="int-aff-award" style="height: 450px">
+              <img class="q-card full-width" src="../../statics/bpwn/images/int-aff-award-2.png" alt="int-aff-award" style="height: 450px">
             </div>
             <div class="col-xs-12 q-mt-xl">
               <div class="text-center q-headline text-secondary text-bold uppercase">International Recognition & Scholarship Award-2012 received by SP Abida Sultana, Bangladesh Police</div>
             </div>
             <div class="col-lg-8 offset-lg-2 q-mt-xl">
-              <img class="q-card full-width" src="../../statics/images/int-aff-award-3.png" alt="int-aff-award" style="height: 450px">
+              <img class="q-card full-width" src="../../statics/bpwn/images/int-aff-award-3.png" alt="int-aff-award" style="height: 450px">
             </div>
           </div>
         </q-tab-pane>
@@ -87,10 +87,10 @@
               <a href="http://iawpregion22.blogspot.com/" rel="noopener" target="_blank"><q-btn class="full-width" label="IAWP Region 22: Bangladesh Chapter" color="primary" flat/></a>
             </div>
             <div class="col-lg-10 q-mt-xl">
-              <img class="q-card full-width" src="../../statics/images/iawp_blog.png" alt="iawp_blog">
+              <img class="q-card full-width" src="../../statics/bpwn/images/iawp_blog.png" alt="iawp_blog">
             </div>
             <div class="col-lg-10 q-mt-xl">
-              <img class="q-card full-width" src="../../statics/images/iawp_blog-2-v2.png" alt="iawp_blog">
+              <img class="q-card full-width" src="../../statics/bpwn/images/iawp_blog-2-v2.png" alt="iawp_blog">
             </div>
           </div>
         </q-tab-pane>
@@ -128,7 +128,7 @@
                 </div>
               </div>
               <div class="col-lg-10 offset-lg-1 q-mt-xl">
-                <img class="q-card full-width" src="../../statics/images/iawp_board.png" alt="iawp_board">
+                <img class="q-card full-width" src="../../statics/bpwn/images/iawp_board.png" alt="iawp_board">
               </div>
           </div>
         </q-tab-pane>

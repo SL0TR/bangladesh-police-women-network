@@ -60,7 +60,7 @@ export default {
 
 <style scoped>
   .address-panel {
-    background: linear-gradient(180deg, rgba(0,0,0, 0.4), rgba(0,0,0, 0.6)), url('../statics/images/office-image.jpg');
+    background: linear-gradient(180deg, rgba(0,0,0, 0.4), rgba(0,0,0, 0.6)), url('../statics/bpwn/images/office-image.jpg');
     width: 100%;
     height: 600px;
     display: flex;

@@ -13,13 +13,13 @@
           class="slider round-borders shadow-1"
           color="secondary"
         >
-          <q-carousel-slide img-src="../statics/images/home-page-slider-1.jpg"></q-carousel-slide>
-          <q-carousel-slide img-src="../statics/images/home-page-slider-2.jpg"></q-carousel-slide>
-          <q-carousel-slide img-src="../statics/images/home-page-slider-3.jpg"></q-carousel-slide>
-          <q-carousel-slide img-src="../statics/images/home-page-slider-4.png"></q-carousel-slide>
-          <q-carousel-slide img-src="../statics/images/home-page-slider-5.jpg"></q-carousel-slide>
-          <q-carousel-slide img-src="../statics/images/home-page-slider-6.jpg"></q-carousel-slide>
-          <q-carousel-slide img-src="../statics/images/home-page-slider-7.png"></q-carousel-slide>
+          <q-carousel-slide img-src="../statics/bpwn/images/home-page-slider-1.jpg"></q-carousel-slide>
+          <q-carousel-slide img-src="../statics/bpwn/images/home-page-slider-2.jpg"></q-carousel-slide>
+          <q-carousel-slide img-src="../statics/bpwn/images/home-page-slider-3.jpg"></q-carousel-slide>
+          <q-carousel-slide img-src="../statics/bpwn/images/home-page-slider-4.png"></q-carousel-slide>
+          <q-carousel-slide img-src="../statics/bpwn/images/home-page-slider-5.jpg"></q-carousel-slide>
+          <q-carousel-slide img-src="../statics/bpwn/images/home-page-slider-6.jpg"></q-carousel-slide>
+          <q-carousel-slide img-src="../statics/bpwn/images/home-page-slider-7.png"></q-carousel-slide>
         </q-carousel>
       </div>
       <div class="col-xs-10 offset-xs-1 q-mt-xl">
@@ -90,22 +90,22 @@ export default {
       show: true,
       cards: [
         {
-          img: '../statics/images/home-card-img-1.jpg',
+          img: '../statics/bpwn/images/home-card-img-1.jpg',
           title: 'IAWP Conference',
           details: 'Leadership For Police Women Asia - 1st Asia Region Women Police Conference on Women in Law Enforcement on 2012 organized by BPWN'
         },
         {
-          img: '../statics/images/home-card-img-2.jpg',
+          img: '../statics/bpwn/images/home-card-img-2.jpg',
           title: 'Sensitization Workshop',
           details: 'Bangladesh Law Enforcement and HIV Network (LEAHN) and UNAIDS Bangladesh organized Sensitization Workshop with Women Law Enforcers on HIV/AIDS at Telecom Auditorium Rajarbagh, Dhaka'
         },
         {
-          img: '../statics/images/home-card-img-3.jpg',
+          img: '../statics/bpwn/images/home-card-img-3.jpg',
           title: 'UN Peacekeeping Mission',
           details: 'Bangladesh Women Police began its participation in CIVPOL/UNPOL mission of UN peacekeeping mission for the first time in 2002. Already Un mission completed by 1109 women police from Bangladesh.'
         },
         {
-          img: '../statics/images/home-card-img-4.jpg',
+          img: '../statics/bpwn/images/home-card-img-4.jpg',
           title: 'View Exchange Program',
           details: '105 Girl students from different colleges of Narsingdi and Teachers, Officer in Charges of police stations, female members of Narsingdi district police, media partners along with civil society 45 members also joined in the programmes.'
         }

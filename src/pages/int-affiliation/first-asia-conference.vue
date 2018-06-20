@@ -12,7 +12,7 @@
       </div>
     </div>
     <div class="col-lg-8 offset-lg-2">
-      <img class="full-width q-card" src="../../statics/images/asia_conf.jpg" alt="asia_conf">
+      <img class="full-width q-card" src="../../statics/bpwn/images/asia_conf.jpg" alt="asia_conf">
     </div>
   </div>
 </template>

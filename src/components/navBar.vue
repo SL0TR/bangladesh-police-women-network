@@ -4,7 +4,7 @@
     class="text-black"
   >
     <q-toolbar-title class="flex">
-      <img class="bpwn-logo" src="../statics/bpwn-logo.png" alt="BPWN Logo">
+      <img class="bpwn-logo" src="../statics/bpwn/bpwn-logo.png" alt="BPWN Logo">
     </q-toolbar-title>
     <q-btn-group class="text-primary nav-btns" v-if="this.$q.platform.is.desktop" flat>
       <q-btn class=" nav-btn" label="HOME" flat @click="$router.push('/')"/>

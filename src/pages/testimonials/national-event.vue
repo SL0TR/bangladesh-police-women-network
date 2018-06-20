@@ -91,8 +91,8 @@ export default {
           label: 'Click here to know details about this Event',
           link: 'http://www.bpwn.org.bd/eventDetails.php?t=n&page=5',
           images: [
-            '../../statics/images/national-event-one-stop-1.jpg',
-            '../../statics/images/national-event-one-stop-2.jpg'
+            '../../statics/bpwn/images/national-event-one-stop-1.jpg',
+            '../../statics/bpwn/images/national-event-one-stop-2.jpg'
           ]
         },
         {
@@ -101,7 +101,7 @@ export default {
           date: 'August 15 2016',
           details: 'The National Mourning Day was observed with due reverence and solemnity, marking the 41st anniversary of assassination of Father of the Nation Bangabandhu Sheikh Mujibur Rahman by Bangladesh Police Women Network(BPWN). Mili Biswas, ppm, Deputy Inspector General of Police, Police Headquarters and President of Bangladesh Police Women Network along with other members of BPWN paid homage to Bangabandhu.',
           images: [
-            '../../statics/images/national-event-dhanmondi-1.jpg'
+            '../../statics/bpwn/images/national-event-dhanmondi-1.jpg'
           ]
         },
         {
@@ -110,9 +110,9 @@ export default {
           date: 'March 31 2016',
           details: 'The police department has launched the Women Police Award for the first time in the country to recognise exemplary achievement of female police officers. Mr. A K M Shahidul Haque, BPM, PPM, Inspector General of Police, introduced the award, and this year the accolade has been given to 33 policewomen in six categories. The prize includes a crest, a certificate and a cash reward of Tk 10,000. The six categories are Bangladesh Police Women Leadership Award, Excellence in Action, Medal of Courage, Community Service, Peace-keeping Mission Special Honour Award and Entrepreneur Women Organiser of the Year Award. Mili Biswas, Deputy Inspector General of Police, Police Headquarters and President of Bangladesh Police Women Network, made the announcement of the award at a press conference before this award. The awards presented at a programme at Bashundhara Convention Centre on March 31. House Speaker Shirin Sharmin Chaudhury attended the event as the chief guest, while the home minister and the state minister for women and children affairs were the special guests. There are a total of 8,824 female police officers in the country.The recruitment of female officers in the police department began in 1974. At present, female officers hold various positions in the force, from additional inspector general to constable. Female officers now play a key role in the force. Elija Sarmin, Additional Superintendent of Police led a parade of officers at Sardah Police Academy while Shamsunnahar, superintendent of police of Chandpur, led the guard of honour parade during this year?s Police Week. Female police officers from the country also join United Nations missions. The first group of female officers were sent to East Timor in 2000, while a full contingent was sent in 2010.',
           images: [
-            '../../statics/images/national-event-bashundhara-1.jpg',
-            '../../statics/images/national-event-bashundhara-2.jpg',
-            '../../statics/images/national-event-bashundhara-3.jpg'
+            '../../statics/bpwn/images/national-event-bashundhara-1.jpg',
+            '../../statics/bpwn/images/national-event-bashundhara-2.jpg',
+            '../../statics/bpwn/images/national-event-bashundhara-3.jpg'
           ]
         },
         {
@@ -121,11 +121,11 @@ export default {
           date: 'September 04 2013',
           details: 'With Architect Iqbal Habib on HPM VISIT in Rangamati, different activities in Rangamati, Narsingdi. Receiving award from Inner Wheel club.',
           images: [
-            '../../statics/images/national-event-R-and-N-1.jpg',
-            '../../statics/images/national-event-R-and-N-2.jpg',
-            '../../statics/images/national-event-R-and-N-3.jpg',
-            '../../statics/images/national-event-R-and-N-4.jpg',
-            '../../statics/images/national-event-R-and-N-5.jpg'
+            '../../statics/bpwn/images/national-event-R-and-N-1.jpg',
+            '../../statics/bpwn/images/national-event-R-and-N-2.jpg',
+            '../../statics/bpwn/images/national-event-R-and-N-3.jpg',
+            '../../statics/bpwn/images/national-event-R-and-N-4.jpg',
+            '../../statics/bpwn/images/national-event-R-and-N-5.jpg'
           ]
         }
       ]

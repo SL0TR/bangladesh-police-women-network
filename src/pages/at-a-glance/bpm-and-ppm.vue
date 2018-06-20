@@ -38,23 +38,23 @@ export default {
           title: 'POLICE WEEK 2018 BPM/PPM',
           policeWeek: [
             {
-              img: '../../statics/images/police-week-2018-1.JPG',
+              img: '../../statics/bpwn/images/police-week-2018-1.JPG',
               title: 'DIG Rowshan Ara PPM'
             },
             {
-              img: '../../statics/images/police-week-2018-2.JPG',
+              img: '../../statics/bpwn/images/police-week-2018-2.JPG',
               title: 'DC Hamida Parvin PPM'
             },
             {
-              img: '../../statics/images/police-week-2018-3.JPG',
+              img: '../../statics/bpwn/images/police-week-2018-3.JPG',
               title: 'SP Asma Siddique Mili BPM'
             },
             {
-              img: '../../statics/images/police-week-2018-4.JPG',
+              img: '../../statics/bpwn/images/police-week-2018-4.JPG',
               title: 'Addl. SP Jesmin Keka PPM'
             },
             {
-              img: '../../statics/images/police-week-2018-5.JPG',
+              img: '../../statics/bpwn/images/police-week-2018-5.JPG',
               title: 'Addl. SP Bina PPM'
             }
           ]
@@ -63,15 +63,15 @@ export default {
           title: 'POLICE WEEK 2017 BPM/PPM',
           policeWeek: [
             {
-              img: '../../statics/images/police-week-2017-1.JPG',
+              img: '../../statics/bpwn/images/police-week-2017-1.JPG',
               title: 'SP Shamsunnahar PPM'
             },
             {
-              img: '../../statics/images/police-week-2017-2.JPG',
+              img: '../../statics/bpwn/images/police-week-2017-2.JPG',
               title: 'Snr. ASP Shawon Shyla PPM'
             },
             {
-              img: '../../statics/images/police-week-2017-3.JPG',
+              img: '../../statics/bpwn/images/police-week-2017-3.JPG',
               title: 'Snr. ASP Shaheda Sultana PPM'
             }
           ]
@@ -80,15 +80,15 @@ export default {
           title: 'POLICE WEEK 2016 BPM/PPM',
           policeWeek: [
             {
-              img: '../../statics/images/police-week-2016-1.JPG',
+              img: '../../statics/bpwn/images/police-week-2016-1.JPG',
               title: 'Addl. SP Mukta Dhar PPM'
             },
             {
-              img: '../../statics/images/police-week-2016-2.JPG',
+              img: '../../statics/bpwn/images/police-week-2016-2.JPG',
               title: 'Addl. SP Maksuda Akhter Khanam PPM'
             },
             {
-              img: '../../statics/images/police-week-2016-3.JPG',
+              img: '../../statics/bpwn/images/police-week-2016-3.JPG',
               title: 'Snr. ASP Shahanaz Parvin PPM'
             }
           ]
@@ -97,15 +97,15 @@ export default {
           title: 'POLICE WEEK 2015 BPM/PPM',
           policeWeek: [
             {
-              img: '../../statics/images/police-week-2015-1.JPG',
+              img: '../../statics/bpwn/images/police-week-2015-1.JPG',
               title: 'Addl. DIG Amena Begum BPM'
             },
             {
-              img: '../../statics/images/police-week-2015-2.JPG',
+              img: '../../statics/bpwn/images/police-week-2015-2.JPG',
               title: 'Addl. SP Mahmuda Afroz Lucky PPM'
             },
             {
-              img: '../../statics/images/police-week-2015-3.JPG',
+              img: '../../statics/bpwn/images/police-week-2015-3.JPG',
               title: 'SP Salma Begum PPM'
             }
           ]
@@ -114,15 +114,15 @@ export default {
           title: 'POLICE WEEK 2014 BPM/PPM',
           policeWeek: [
             {
-              img: '../../statics/images/police-week-2014-1.JPG',
+              img: '../../statics/bpwn/images/police-week-2014-1.JPG',
               title: 'SS Farida Yesmin BPM'
             },
             {
-              img: '../../statics/images/police-week-2014-2.JPG',
+              img: '../../statics/bpwn/images/police-week-2014-2.JPG',
               title: 'SP Shamima Begum PPM'
             },
             {
-              img: '../../statics/images/police-week-2014-3.JPG',
+              img: '../../statics/bpwn/images/police-week-2014-3.JPG',
               title: 'SP Nasian Wazed PPM'
             }
           ]
@@ -131,19 +131,19 @@ export default {
           title: 'POLICE WEEK 2013 BPM/PPM',
           policeWeek: [
             {
-              img: '../../statics/images/police-week-2013-1.JPG',
+              img: '../../statics/bpwn/images/police-week-2013-1.JPG',
               title: 'DIG Mily Biswas PPM'
             },
             {
-              img: '../../statics/images/police-week-2013-2.JPG',
+              img: '../../statics/bpwn/images/police-week-2013-2.JPG',
               title: 'Addl. DIG Rokhfar Sultana Khanam PPM'
             },
             {
-              img: '../../statics/images/police-week-2013-3.JPG',
+              img: '../../statics/bpwn/images/police-week-2013-3.JPG',
               title: 'SP Abida Sultana PPM'
             },
             {
-              img: '../../statics/images/police-week-2013-4.JPG',
+              img: '../../statics/bpwn/images/police-week-2013-4.JPG',
               title: 'SP Ayesha Siddiqa PPM'
             }
           ]
@@ -152,7 +152,7 @@ export default {
           title: 'POLICE WEEK 2011 BPM/PPM',
           policeWeek: [
             {
-              img: '../../statics/images/police-week-2011-1.JPG',
+              img: '../../statics/bpwn/images/police-week-2011-1.JPG',
               title: 'Addl. SP Afrida Rubai PPM'
             }
           ]

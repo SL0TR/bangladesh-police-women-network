@@ -4,7 +4,7 @@
       <div class="col-lg-3 col-xs-4">
         <hr>
       </div>
-      <img class="q-ml-md q-mr-md badge-logo" src="../statics/bpwn-badge-logo.png" alt="badge logo">
+      <img class="q-ml-md q-mr-md badge-logo" src="../statics/bpwn/bpwn-badge-logo.png" alt="badge logo">
       <div class="col-lg-3 col-xs-4">
         <hr>
       </div>

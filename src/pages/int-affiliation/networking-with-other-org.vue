@@ -56,7 +56,7 @@ export default {
                 'Taptun Zaman, AIG, Bangladesh Police presently working as Police officer in UN Headquarter at Annual Memorial Service to honour the United Nations personnel who lost their lives in the line of duty.'
               ],
               images: [
-                '../../statics/images/netwroking-programs-1-img-1.jpg'
+                '../../statics/bpwn/images/netwroking-programs-1-img-1.jpg'
               ]
             }
           ]
@@ -72,11 +72,11 @@ export default {
                 '132 Senior Women police, Academicians and Researchers from 15 different countries joined in the conference. They were invited there to represent Bangladesh Women Police performances in different Arena. Organizers and Participants took interest and appreciated the PRP initiatives to promote women in policing, Gender sensitive policing initiatives, BPWN Platform, UN Mission contribution, IAWP Networking, Victim support centers and service delivery by women Help desk'
               ],
               images: [
-                '../../statics/images/netwroking-programs-2-img-1.jpg',
-                '../../statics/images/netwroking-programs-2-img-2.jpg',
-                '../../statics/images/netwroking-programs-2-img-3.jpg',
-                '../../statics/images/netwroking-programs-2-img-4.jpg',
-                '../../statics/images/netwroking-programs-2-img-5.jpg'
+                '../../statics/bpwn/images/netwroking-programs-2-img-1.jpg',
+                '../../statics/bpwn/images/netwroking-programs-2-img-2.jpg',
+                '../../statics/bpwn/images/netwroking-programs-2-img-3.jpg',
+                '../../statics/bpwn/images/netwroking-programs-2-img-4.jpg',
+                '../../statics/bpwn/images/netwroking-programs-2-img-5.jpg'
               ]
             }
           ]
@@ -94,9 +94,9 @@ export default {
                 'In addition to the DKI APCSS team, 54 persons (32 women,22 men) participated in the workshop, including senior leaders capable of driving change in military, police, maritime, foreign affairs, public security and law enforcement agencies. fourteen countries and regions were represented: Bangladesh, Srilanka, Nepal, Burma, Indonesia, Philippines, Vietnam, Taiwan, Japan, Mongolia, the Federated states of Micronesia, Palau, Papua New Guinea, and United States (Guam). By professional, the attendees were 43% civilian, 31% military and 26% police.'
               ],
               images: [
-                '../../statics/images/netwroking-programs-3-img-1.jpg',
-                '../../statics/images/netwroking-programs-3-img-2.jpg',
-                '../../statics/images/netwroking-programs-3-img-3.jpg'
+                '../../statics/bpwn/images/netwroking-programs-3-img-1.jpg',
+                '../../statics/bpwn/images/netwroking-programs-3-img-2.jpg',
+                '../../statics/bpwn/images/netwroking-programs-3-img-3.jpg'
               ]
             }
           ]
@@ -111,9 +111,9 @@ export default {
                 'Signing the declaration of 2nd Asia Region Women police conference held in Samarang Indonesia in 2014.'
               ],
               images: [
-                '../../statics/images/netwroking-programs-4-img-1.jpg',
-                '../../statics/images/netwroking-programs-4-img-2.jpg',
-                '../../statics/images/netwroking-programs-4-img-3.jpg'
+                '../../statics/bpwn/images/netwroking-programs-4-img-1.jpg',
+                '../../statics/bpwn/images/netwroking-programs-4-img-2.jpg',
+                '../../statics/bpwn/images/netwroking-programs-4-img-3.jpg'
               ]
             }
           ]
